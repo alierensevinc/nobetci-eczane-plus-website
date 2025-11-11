@@ -2,7 +2,7 @@
 
 **Acil durumlarda ve gece saatlerinde size en yakın nöbetçi eczaneyi saniyeler içinde bulun!**
 
-Nöbetçi Eczane Plus, Türkiye'nin 81 ilindeki tüm nöbetçi eczanelerin güncel listesine kolayca ulaşmanızı sağlayan modern ve kullanıcı dostu bir mobil uygulamadır. Bu depo, uygulamanın resmi tanıtım web sitesinin dosyalarını içermektedir.
+Nöbetçi Eczane Plus, Türkiye'nin 81 ilindeki tüm nöbetçi eczanelerin güncel listesine kolayca ulaşmanızı sağlayan modern ve kullanıcı dostu bir mobil uygulamadır. 
 
 ---
 
