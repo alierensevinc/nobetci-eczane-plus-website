@@ -27,3 +27,10 @@ Uygulamamızı kullanarak ilgili politikaları kabul etmiş sayılırsınız.
 
 * **[Gizlilik Politikası](/nobetci-eczane-plus-website/privacy-policy)**
 * **[Kullanım Koşulları ve Şartları](/nobetci-eczane-plus-website/terms-and-conditions)**
+
+<h2>Destek / Support</h2>
+<p>
+  Uygulama ile ilgili herhangi bir sorun yaşarsanız veya geri bildirimde bulunmak isterseniz, 
+  lütfen <a href="mailto:sevinc.aeren@gmail.com">sevinc.aeren@gmail.com</a> adresinden 
+  bizimle iletişime geçin.
+</p>
