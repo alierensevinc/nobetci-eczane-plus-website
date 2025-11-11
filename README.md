@@ -25,5 +25,5 @@ Nöbetçi Eczane Plus, hayatınızı kolaylaştırmak için tasarlandı:
 
 Uygulamamızı kullanarak ilgili politikaları kabul etmiş sayılırsınız.
 
-* **[Gizlilik Politikası](/privacy-policy)**
-* **[Kullanım Koşulları ve Şartları](/terms-and-conditions)**
+* **[Gizlilik Politikası](/nobetci-eczane-plus-website/privacy-policy)**
+* **[Kullanım Koşulları ve Şartları](/nobetci-eczane-plus-website/terms-and-conditions)**
